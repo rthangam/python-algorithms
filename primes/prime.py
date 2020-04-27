@@ -1,3 +1,8 @@
+"""
+Program to find if a number is prime or not
+
+@rthangam 
+"""
 import math
 
 def isPrime(n:int):
